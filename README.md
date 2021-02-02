@@ -1,6 +1,6 @@
 # About
 
-Simple feed forward neural network written from scratch that use only numpy and does digit recognition (use MNIST handwritten dataset)
+Simple feed forward-neural network written from scratch that uses only NumPy and does digit recognition (use MNIST handwritten dataset)
 
 # Running
 
